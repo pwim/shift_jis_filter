@@ -1,0 +1,3 @@
+= shift_jis_filter
+
+A filter for converting output to Shift_JIS.  Based on jpmobile's (http://github.com/darashi/jpmobile) filter for doing this. 
